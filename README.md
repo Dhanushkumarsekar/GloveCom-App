@@ -122,17 +122,6 @@ Or generate a visual GitHub cover/banner (GloveCom – Sign Language to Speech T
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 # GloveCom
 A minimal Flutter starter project for GloveCom — a glove-to-app sign language translator using ESP32 over BLE + Supabase backend.
 
@@ -275,5 +264,6 @@ void loop() {
 
   delay(10);
 }
-#   G l o v e C o m - A p p  
+#   G l o v e C o m - A p p 
+ 
  
