@@ -1,3 +1,5 @@
+![WhatsApp Image 2025-11-15 at 14 49 02_ba0ea4fe](https://github.com/user-attachments/assets/d29094b8-1c87-4f33-92c3-d81986d88846)
+
 🧤 GloveCom – Sign Language to Speech Translator
 
 > 🚀 Bridging the gap between sign language and speech through AI, IoT, and compassion.
